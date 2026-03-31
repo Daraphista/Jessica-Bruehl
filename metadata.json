@@ -1,0 +1,7 @@
+{
+  "name": "Joyce Rey | Luxury Real Estate",
+  "description": "Luxury Beverly Hills and Los Angeles real estate agent website featuring high-end property listings, community guides, and expert real estate insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "client": "Signature Residential Group (Jessica Bruehl)",
+  "sections": [
+    {
+      "id": "navigation-bar",
+      "name": "Navigation Bar",
+      "status": "include",
+      "order": 1,
+      "content": {
+        "logoText": "Signature Residential Group",
+        "navLinks": [
+          "Home Search",
+          "Communities",
+          "Our Team",
+          "Active Listings",
+          "Reviews",
+          "Blog",
+          "Connect"
+        ],
+        "burgerMenuLinks": [
+          "Home Search",
+          "Active Listings",
+          "Communities",
+          "Our Team",
+          "Reviews",
+          "Blog",
+          "Friends & Family Club",
+          "Connect"
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "name": "Hero",
+      "status": "include",
+      "order": 2,
+      "content": {
+        "headline": "Austin's Most Trusted Real Estate Team",
+        "subheadline": "Serving the Austin metroplex with 20+ years of market expertise, $555M+ in closed sales, and a referral-first reputation built since 2003.",
+        "cta": "View Active Listings"
+      }
+    },
+    {
+      "id": "listings",
+      "name": "Listings",
+      "status": "include",
+      "order": 3,
+      "content": {
+        "heading": "Current Listings",
+        "subheading": "Properties across Austin's most sought-after communities — from Westlake and Eanes ISD to the waterfront and beyond.",
+        "ctaText": "View All Listings",
+        "categoryLabels": [
+          "Active Listings",
+          "Featured Properties",
+          "Recently Sold"
+        ]
+      }
+    },
+    {
+      "id": "about-founder-spotlight",
+      "name": "About / Founder Spotlight",
+      "status": "include",
+      "order": 4,
+      "content": {
+        "introLine": "Top 1% of REALTORS® Nationwide — Ranked #7 in Austin by Austin Business Journal",
+        "heading": "Jessica Bruehl",
+        "bodyCopy": "Jessica Bruehl has been the standard for real estate advisory in Austin since 2003. As founder and Broker of Signature Residential Group, she built a team of specialists — each focused on a distinct part of the transaction process — so that no client ever gets a generalist when they need an expert. With over $555M in career sales and 1,200+ homes closed, Jessica personally oversees every client relationship and transaction the team touches.\n\nHer perspective on real estate is shaped by something most agents can't claim: she's been an active investor since before she became a licensed agent, purchasing her first property as a UT Austin student on an athletic scholarship, and building a personal portfolio of single-family homes, condos, and short-term rentals across Texas and Colorado. That investor's lens informs every pricing strategy, negotiation, and market call she makes on behalf of her clients.\n\nJessica and her team serve buyers, sellers, investors, and relocating clients — from Austin locals to those moving from across the country or internationally — with the same advisory depth and attention to detail that has kept 98% of the team's business coming from repeat clients and personal referrals.",
+        "ctaText": "Meet the Full Team",
+        "ctaLabel": "Our Team",
+        "accoladesBannerItems": [
+          "Ranked #7 — Austin Business Journal",
+          "Top 1% of REALTORS® Nationwide",
+          "Member of the Elite 25",
+          "NAR 30 Under 30 Recipient",
+          "$555M+ in Career Sales",
+          "1,200+ Homes Closed",
+          "KW #1 Most Closed Volume — Individual",
+          "KW #1 Most Closed Properties — Individual",
+          "Member, Agents' Leadership Council"
+        ]
+      }
+    },
+    {
+      "id": "stats-why-choose-us",
+      "name": "Stats / Why Choose Us",
+      "status": "include",
+      "order": 5,
+      "content": {
+        "heading": "The Numbers Behind the Name",
+        "subheading": "Two decades. One standard.",
+        "bodyCopy": "Since 2003, Signature Residential Group has operated on a single principle: every client's outcome matters more than the next transaction. The result is a business built almost entirely on trust — 98% of sales have come from repeat clients or personal referrals. Consistency like that doesn't happen by accident.",
+        "stats": [
+          { "value": "$555M+", "label": "Career Sales Volume" },
+          { "value": "1,200+", "label": "Homes Closed" },
+          { "value": "98%", "label": "Repeat & Referral Business" },
+          { "value": "20+", "label": "Years in the Austin Market" },
+          { "value": "Top 1%", "label": "of REALTORS® Nationwide" },
+          { "value": "#7", "label": "Austin Business Journal Ranking" }
+        ],
+        "ctaText": "View Our Portfolio"
+      }
+    },
+    {
+      "id": "communities-areas-served",
+      "name": "Communities / Areas Served",
+      "status": "include",
+      "order": 6,
+      "content": {
+        "heading": "Where We Work",
+        "subheading": "Deep knowledge of Austin's most distinct neighborhoods and surrounding communities.",
+        "areaCards": [
+          {
+            "areaName": "Downtown & The '04",
+            "description": "Urban Austin at its most vibrant. Condos, lofts, and walkable living in the heart of the city."
+          },
+          {
+            "areaName": "Waterfront",
+            "description": "Lake Austin and Lake Travis properties where the lifestyle is as valuable as the land."
+          },
+          {
+            "areaName": "Eanes ISD & SW Austin",
+            "description": "The most sought-after school district in the metro, with established neighborhoods and exceptional homes."
+          },
+          {
+            "areaName": "East Austin & Easton Park",
+            "description": "A dynamic, fast-evolving corridor blending new development with Austin's creative culture."
+          },
+          {
+            "areaName": "Texas Hill Country & Lake Travis ISD",
+            "description": "Acreage, privacy, and wide-open spaces with strong school access and proximity to the city."
+          },
+          {
+            "areaName": "North Central Austin",
+            "description": "Established, character-rich neighborhoods with strong long-term value."
+          },
+          {
+            "areaName": "North Austin",
+            "description": "A fast-growing corridor with excellent access, new construction, and strong investment fundamentals."
+          },
+          {
+            "areaName": "Hays County",
+            "description": "Southern expansion market with growing communities and compelling entry-level luxury options."
+          },
+          {
+            "areaName": "Williamson County",
+            "description": "Northern growth hub offering space, value, and convenient access to the metro."
+          }
+        ]
+      }
+    },
+    {
+      "id": "navigation-cta-offers-services",
+      "name": "Navigation / CTA — Offers & Services",
+      "status": "include",
+      "order": 7,
+      "content": {
+        "heading": "How We Can Help",
+        "descriptor": "Whether you're buying, selling, investing, or relocating — the team is built to handle every dimension of your transaction.",
+        "linkItems": [
+          "Search All Listings",
+          "Sell Your Home",
+          "Buy in Austin",
+          "Investment Advisory",
+          "Relocation Support",
+          "Request a Home Valuation",
+          "Explore Our Communities",
+          "Meet the Team",
+          "Connect With Us"
+        ]
+      }
+    },
+    {
+      "id": "guides",
+      "name": "Guides",
+      "status": "example",
+      "order": 8,
+      "content": {
+        "heading": "(Example Section) Your Austin Playbook",
+        "note": "This is an example of what this section could look like on your site.",
+        "linkItems": [
+          "First-Time Buyer's Guide to Austin",
+          "Seller's Roadmap: From Listing to Closing",
+          "Neighborhood Guide to Westlake & Eanes ISD",
+          "Relocation Guide to the Austin Metroplex",
+          "Investment Property Primer: Austin Market Edition"
+        ]
+      }
+    },
+    {
+      "id": "press-media",
+      "name": "Press / Media",
+      "status": "example",
+      "order": 9,
+      "content": {
+        "heading": "(Example Section) As Seen In",
+        "note": "This is an example of what this section could look like on your site.",
+        "mediaCards": [
+          {
+            "publication": "Austin Business Journal",
+            "description": "Top Residential Real Estate Agents in Austin: 2021 Rankings"
+          },
+          {
+            "publication": "The Real Estate Advisory",
+            "description": "Building a Referral-First Business in a Competitive Market"
+          },
+          {
+            "publication": "Austin Lifestyle Magazine",
+            "description": "The Agents Who Know Austin Best"
+          }
+        ]
+      }
+    },
+    {
+      "id": "featured-videos",
+      "name": "Featured Videos",
+      "status": "example",
+      "order": 10,
+      "content": {
+        "heading": "(Example Section) Inside the Properties",
+        "note": "This is an example of what this section could look like on your site.",
+        "bodyCopy": "Step inside Austin's most compelling listings with cinematic property tours, neighborhood walkthroughs, and monthly market updates from the Signature Residential team.",
+        "ctaText": "Visit Our YouTube Channel"
+      }
+    },
+    {
+      "id": "app-spotlight",
+      "name": "App Spotlight",
+      "status": "example",
+      "order": 11,
+      "content": {
+        "heading": "(Example Section) Search Smarter",
+        "note": "This is an example of what this section could look like on your site.",
+        "bodyCopy": "Browse active listings, save your favorites, and receive real-time alerts when new properties hit the market. The Signature Home Search app gives you direct access to the team's inventory with local context the major portals can't provide.",
+        "ctaText": "Download on the App Store"
+      }
+    },
+    {
+      "id": "magazine-spotlight",
+      "name": "Magazine Spotlight",
+      "status": "example",
+      "order": 12,
+      "content": {
+        "heading": "(Example Section) The Signature Edition",
+        "note": "This is an example of what this section could look like on your site.",
+        "bodyCopy": "A quarterly look at Austin's luxury market — featuring exclusive property previews, design trends, neighborhood spotlights, and conversations with the people shaping the communities we call home. Each issue is crafted for the Austin buyer and seller who wants context, not just listings.",
+        "ctaText": "Read the Latest Issue"
+      }
+    },
+    {
+      "id": "custom-services",
+      "name": "Custom Services — Friends & Family Club",
+      "status": "include",
+      "order": 13,
+      "content": {
+        "heading": "The Friends & Family Club",
+        "bodyCopy": "The relationship doesn't end at closing. The Friends & Family Club is Signature Residential Group's monthly perks program for past clients, referral partners, and the broader community built around the team since 2003. Members receive exclusive market insights, curated local resources, and access to a network that reflects the same trust-first values the team has always operated by. It's not a newsletter — it's the inner circle.",
+        "ctaText": "Join the Club"
+      }
+    },
+    {
+      "id": "testimonials",
+      "name": "Testimonials",
+      "status": "include",
+      "order": 14,
+      "content": {
+        "heading": "What Our Clients Say",
+        "testimonials": [
+          {
+            "name": "Karen E.",
+            "role": "Out-of-State Seller",
+            "quote": "Jessica and her team were fantastic. With both owners out of state, she handled everything — cleaning, staging, repairs, and check-ins — giving us total peace of mind. Her market expertise led to a full-price offer just four days after listing."
+          },
+          {
+            "name": "Rachael M.",
+            "role": "Repeat Client",
+            "quote": "Jessica and her team at Signature Residential Group are the best. We've worked with them for over eight years on both buying and selling, and their expertise, attention to detail, and local market knowledge are unmatched."
+          },
+          {
+            "name": "Charles D.",
+            "role": "Seller",
+            "quote": "After our home sat on the market for months, the team gave us a smart, strategic plan. With their guidance on pricing and staging, we were under contract in just two weeks with an all-cash offer."
+          },
+          {
+            "name": "Verified Client",
+            "role": "Past Client",
+            "quote": "Never have I seen the level of service, professionalism, and outright integrity Jessica exhibits. In a competitive market like Austin, you cannot afford to have anyone other than an expert working on your behalf."
+          },
+          {
+            "name": "Verified Client",
+            "role": "Past Client",
+            "quote": "Jessica is the most amazing realtor I have met. Her attention to detail, customer service focus, and vision make her a truly different breed of realtor. She excelled in both selling and purchasing for us — two different skill sets, and with both she brought her full-service approach."
+          }
+        ],
+        "ctaText": "Read More Reviews"
+      }
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "status": "include",
+      "order": 15,
+      "content": {
+        "heading": "Austin Market Insights",
+        "subheading": "Trends, community updates, and real estate perspective from the Signature Residential team.",
+        "ctaText": "Visit the Blog"
+      }
+    },
+    {
+      "id": "philanthropy",
+      "name": "Philanthropy",
+      "status": "include",
+      "order": 16,
+      "content": {
+        "heading": "Invested in Austin",
+        "bodyCopy": "Jessica has been involved in Austin's community as long as she has been selling homes in it. She volunteers routinely, sits on several charity boards, and served as a former Chair of Austin Under 40. Her current philanthropic focus includes the Armstrong Community Music School, Austin Sunshine Camps, Austin Children's Shelter, and Keller Williams Cares — organizations that reflect a commitment to the city's most important asset: the people who live here.",
+        "ctaText": "Learn About Our Involvement"
+      }
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media",
+      "status": "example",
+      "order": 17,
+      "content": {
+        "heading": "(Example Section) Follow Along",
+        "note": "This is an example of what this section could look like on your site. Social media accounts exist but current follower counts are below the threshold for a dedicated section. Revisit once the Signature Residential brand accounts are established.",
+        "platforms": [
+          { "platform": "Instagram", "handle": "@signature_residential_group", "followers": null },
+          { "platform": "YouTube", "handle": "@SignatureResidentialGroup", "followers": null },
+          { "platform": "Facebook", "handle": "Signature Residential Group", "followers": null },
+          { "platform": "LinkedIn", "handle": "Signature Residential Group", "followers": null }
+        ]
+      }
+    },
+    {
+      "id": "cta-form",
+      "name": "CTA Form",
+      "status": "include",
+      "order": 18,
+      "content": {
+        "heading": "Let's Talk",
+        "bodyCopy": "Whether you're buying, selling, or simply exploring your options — reach out and someone from the team will follow up promptly.",
+        "formFields": [
+          "Full Name",
+          "Phone Number",
+          "Email Address",
+          "How can we help you?"
+        ]
+      }
+    },
+    {
+      "id": "office-locations",
+      "name": "Office Locations",
+      "status": "example",
+      "order": 19,
+      "content": {
+        "heading": "(Example Section) Our Offices",
+        "note": "This is an example of what this section could look like on your site. Only one confirmed office location exists at this time.",
+        "locationCards": [
+          {
+            "city": "Austin (Westlake)",
+            "address": "1801 S Mopac Expy Ste 100, Austin, TX 78746",
+            "phone": "(512) 532-5005"
+          },
+          {
+            "city": "Round Rock",
+            "address": "100 Commerce Blvd, Suite 200, Round Rock, TX 78664",
+            "phone": "(512) 555-0182"
+          },
+          {
+            "city": "Cedar Park",
+            "address": "900 N Bell Blvd, Suite 110, Cedar Park, TX 78613",
+            "phone": "(512) 555-0197"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newsletter-cta",
+      "name": "Newsletter CTA",
+      "status": "include",
+      "order": 20,
+      "content": {
+        "heading": "Insider Updates",
+        "bodyCopy": "Receive exclusive market news and local insights before they go public. Join the list the Austin market pays attention to.",
+        "formFields": [
+          "First Name",
+          "Email Address"
+        ],
+        "checkboxLabels": [
+          "I'd like to receive monthly market updates",
+          "I'd like to receive new listing alerts"
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "name": "Footer",
+      "status": "include",
+      "order": 21,
+      "content": {
+        "logoText": "Signature Residential Group",
+        "linkGroups": [
+          {
+            "groupLabel": "Explore",
+            "links": ["Home Search", "Active Listings", "Communities", "Recently Sold"]
+          },
+          {
+            "groupLabel": "Company",
+            "links": ["Our Team", "Reviews", "Blog", "Friends & Family Club"]
+          },
+          {
+            "groupLabel": "Connect",
+            "links": ["Contact Us", "Request a Valuation", "Relocation Support", "Investment Advisory"]
+          }
+        ],
+        "contactInfo": {
+          "phone": "(512) 532-5005",
+          "email": "info@jkbrealty.com",
+          "emailNote": "Confirm updated email under Signature Residential Group brand",
+          "address": "1801 S Mopac Expy Ste 100, Austin, TX 78746"
+        },
+        "socialLinks": ["Instagram", "YouTube", "Facebook", "LinkedIn"],
+        "disclaimerText": "Each office is independently owned and operated. Signature Residential Group | Keller Williams Austin Southwest. Equal Housing Opportunity. Licensed in the State of Texas. TREC Consumer Protection Notice. Information About Brokerage Services.",
+        "associationLabels": ["REALTOR®", "Equal Housing Opportunity", "Keller Williams Realty", "MLS"]
+      }
+    }
+  ]
+}
